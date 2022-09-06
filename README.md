@@ -17,7 +17,7 @@
 [Классификация комментариев](https://github.com/MikhailNaumov88/yandex_praktikum/blob/main/toxic_tweets) | Готов | Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности. Обучить модель классифицировать комментарии на позитивные и негативные. | `Pandas`, `NumPy`, `Sklearn`, `CatBoost`, `NLTK`, '`LightGBM`, `Matplotlib`, `spaCy`, `BERT`
 [SQL запросы](https://colab.research.google.com/drive/1zymkiBM-66hv6E_-k_5gib5X0vS0CHpY?usp=sharing) | Готов | Анализ данных о фондах и инвестициях. Написать запросы к базе SQL. | `SQL`
 [Определение возраста по фото](https://github.com/MikhailNaumov88/yandex_praktikum/tree/main/age_determination_by_photo) | Готов | Построить модель, которая по фотографии определит приблизительный возраст человека. Есть набор фотографий людей с указанием возраста. | `Pandas`,`keras`, `Matplotlib`, `Seaborn`, `компьютерное зрение`
-[Предсказание оттока клиентов оператора связи]() | Не начат | Обучить модель для предсказания оттока клиентов компании по услугам интернета и связи. | `Pandas`,`СategoryEncoders`, `Matplotlib`, `Seaborn`, `Sklearn`, `CatBoost`, `LightGBM`
+[Предсказание температуры сплава стали на этапе обработки]() | В процессе | Построить модель, которая предскажет температуру стали | `Pandas`, `Matplotlib`, `Seaborn`, `Sklearn`, `CatBoost`, `LightGBM`
 
 
 
