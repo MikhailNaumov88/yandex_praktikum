@@ -19,5 +19,5 @@
 [Определение возраста по фото](https://github.com/MikhailNaumov88/yandex_praktikum/tree/main/age_determination_by_photo) | Готов | Построить модель, которая по фотографии определит приблизительный возраст человека. Есть набор фотографий людей с указанием возраста. | `Pandas`,`keras`, `Matplotlib`, `Seaborn`, `компьютерное зрение`
 [Предсказание температуры сплава стали на этапе обработки](https://github.com/MikhailNaumov88/yandex_praktikum/tree/main/out_of_furnace_steel_processing) | В процессе | Построить модель, которая предскажет температуру стали | `Pandas`, `Matplotlib`, `Seaborn`, `Sklearn`, `CatBoost`, `LightGBM`
 
-
+<a href="https://github.com/MikhailNaumov88">Назад</a>
 
