@@ -8,3 +8,5 @@
 Навыки и инструменты | *`Python`, `Pandas`, `Matplotlib`, `исследовательский анализ данных`, `визуадизация данных`, `предобработка данных`*
 **Статус** | **Завершён**
 *Ключевые слова* | *маркетинговый аналитик, фрод аналитик, fraud analyst, data analyst, аналитик данных, аналитик, analyst, обработка данных, histogram, boxplot, scattermatrix, категоризация, scatterplot,  фрод-мониторинг*
+
+<a href="https://github.com/MikhailNaumov88/yandex_praktikum">Назад</a>
